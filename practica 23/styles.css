@@ -1,0 +1,10 @@
+#resultados{
+  position:absolute;
+  /* background: grey; */
+}
+#buscar{
+  /* background: url("loader1.gif") no-repeat right -30px center ; */
+  background-size: 50px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+}

@@ -1,0 +1,9 @@
+
+nombre: Ariel. 
+comentario: Hola mundo!. 
+nombre: Otto. 
+comentario: Hola. 
+nombre: Karen. 
+comentario: Holaaaaa. 
+nombre: Ariel. 
+comentario: comentario. 

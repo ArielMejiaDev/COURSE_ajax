@@ -1,0 +1,11 @@
+voto: 4.-
+voto: 5.-
+voto: 2.-
+voto: 7.-
+voto: 1.-
+voto: 3.-
+voto: 1.-
+voto: 5.-
+voto: 4.-
+voto: 5.-
+voto: 9.-
